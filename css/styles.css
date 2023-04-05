@@ -307,6 +307,7 @@ margin-bottom: 96px;
 }
 
 .menu-portfolio-list{
+justify-content: center;
 margin-top: 0px;
 margin-bottom: 72px;
 display: flex;
